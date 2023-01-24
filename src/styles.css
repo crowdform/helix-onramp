@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button_provider {
+  padding: 0px 14px;
+  white-space: nowrap !important;
+  margin-right: 4px !important;
+  background-color: rgb(240, 246, 255) !important;
+  color: rgb(56, 97, 251) !important;
+  -webkit-box-align: center;
+  align-items: center;
+  background: transparent;
+  border: 0px;
+  border-radius: 8px;
+  display: inline-flex;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  -webkit-box-pack: center;
+  justify-content: center;
+  outline: 0px;
+  font-weight: 600;
+  width: auto;
+  height: 32px;
+  font-size: 12px;
+  padding: 0px 16px;
+  line-height: 18px;
+  margin-bottom: 10px;
+}
