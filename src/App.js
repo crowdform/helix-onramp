@@ -79,7 +79,7 @@ export default function App() {
       <Flex justifyContent="center">
         <Box maxW="400px">
           <Heading my="20px" size="md">
-            Helix OnRamp USDC x MintStars WIP
+            Helix OnRamp USDC WIP
           </Heading>
 
           {Object.keys(torus.paymentProviders).map((network) => {
